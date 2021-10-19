@@ -5,7 +5,7 @@ Based on Python photometry-pipeline.
 
 Example_data contains 6 examples to create light curves. It also contains plots made in xmGrace to compare.
 
-LCDB directory contains Light Curve Data Base from http://www.minorplanet.info/lightcurvedatabase.html
+LCDB directory contains Light Curve Data Base from http://www.MinorPlanet.info/php/lcdb.php
 Please, always download last version of their database.
 
 List of my programs:
