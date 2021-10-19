@@ -1,7 +1,7 @@
 # AsteroidPhotometry
 Master thesis on new automatic procedure for asteroid photometry.
 
-Based on Python photometry-pipeline.
+Based on Python [mommermi/photometrypipeline](https://github.com/mommermi/photometrypipeline).
 
 Example_data contains 6 examples to create light curves. It also contains plots made in xmGrace to compare.
 
